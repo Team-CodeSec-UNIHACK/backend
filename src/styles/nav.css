@@ -1,0 +1,16 @@
+.nav{
+    list-style:none;
+    margin:0;
+    padding-top:30px;
+    padding-bottom:30px;
+    text-align:center;
+    font-size: 45px;
+}
+.nav li{
+    display:inline;
+}
+.nav a{
+    display:inline-block;
+    text-decoration: none;
+    color: #F8A961;
+}
